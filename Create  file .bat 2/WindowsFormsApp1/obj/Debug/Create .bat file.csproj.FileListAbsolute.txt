@@ -1,0 +1,39 @@
+E:\1. work\ฝีกงาน\Create file\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\1. work\ฝีกงาน\Create file\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\1. work\ฝีกงาน\Create file\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\1. work\ฝีกงาน\Create file\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\1. work\ฝีกงาน\Create file\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\1. work\ฝีกงาน\Create file\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Create .bat file.csproj.GenerateResource.Cache
+E:\1. work\ฝีกงาน\Create file\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Create .bat file.csproj.CoreCompileInputs.cache
+E:\1. work\ฝีกงาน\Create file\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\1. work\ฝีกงาน\Create file\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\1. work\ฝีกงาน\Create file\Create  file .bat ยำรวม\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\1. work\ฝีกงาน\Create file\Create  file .bat ยำรวม\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\1. work\ฝีกงาน\Create file\Create  file .bat ยำรวม\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\1. work\ฝีกงาน\Create file\Create  file .bat ยำรวม\WindowsFormsApp1\obj\Debug\Create .bat file.csprojResolveAssemblyReference.cache
+E:\1. work\ฝีกงาน\Create file\Create  file .bat ยำรวม\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\1. work\ฝีกงาน\Create file\Create  file .bat ยำรวม\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\1. work\ฝีกงาน\Create file\Create  file .bat ยำรวม\WindowsFormsApp1\obj\Debug\Create .bat file.csproj.GenerateResource.Cache
+E:\1. work\ฝีกงาน\Create file\Create  file .bat ยำรวม\WindowsFormsApp1\obj\Debug\Create .bat file.csproj.CoreCompileInputs.cache
+E:\1. work\ฝีกงาน\Create file\Create  file .bat ยำรวม\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\1. work\ฝีกงาน\Create file\Create  file .bat ยำรวม\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\1. work\ฝีกงาน\Create file\Create  file .bat 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\1. work\ฝีกงาน\Create file\Create  file .bat 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\1. work\ฝีกงาน\Create file\Create  file .bat 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\1. work\ฝีกงาน\Create file\Create  file .bat 2\WindowsFormsApp1\obj\Debug\Create .bat file.csprojResolveAssemblyReference.cache
+E:\1. work\ฝีกงาน\Create file\Create  file .bat 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\1. work\ฝีกงาน\Create file\Create  file .bat 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\1. work\ฝีกงาน\Create file\Create  file .bat 2\WindowsFormsApp1\obj\Debug\Create .bat file.csproj.GenerateResource.Cache
+E:\1. work\ฝีกงาน\Create file\Create  file .bat 2\WindowsFormsApp1\obj\Debug\Create .bat file.csproj.CoreCompileInputs.cache
+E:\1. work\ฝีกงาน\Create file\Create  file .bat 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\1. work\ฝีกงาน\Create file\Create  file .bat 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\1. work\apprentice\Create file\Create  file .bat 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\1. work\apprentice\Create file\Create  file .bat 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\1. work\apprentice\Create file\Create  file .bat 2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\1. work\apprentice\Create file\Create  file .bat 2\WindowsFormsApp1\obj\Debug\Create .bat file.csprojResolveAssemblyReference.cache
+E:\1. work\apprentice\Create file\Create  file .bat 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\1. work\apprentice\Create file\Create  file .bat 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\1. work\apprentice\Create file\Create  file .bat 2\WindowsFormsApp1\obj\Debug\Create .bat file.csproj.GenerateResource.Cache
+E:\1. work\apprentice\Create file\Create  file .bat 2\WindowsFormsApp1\obj\Debug\Create .bat file.csproj.CoreCompileInputs.cache
+E:\1. work\apprentice\Create file\Create  file .bat 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\1. work\apprentice\Create file\Create  file .bat 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
